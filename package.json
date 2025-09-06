@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@analytics/google-analytics": "^0.5.2",
-    "analytics": "^0.7.3",
+    "analytics": "^0.8.19",
     "chalk": "^4.1.0",
     "faunadb": "^4.1.1",
     "markdown-magic": "^2.0.0",
