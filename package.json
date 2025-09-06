@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@analytics/google-analytics": "^0.5.2",
+    "@analytics/google-analytics": "^1.1.0",
     "analytics": "^0.7.3",
     "chalk": "^4.1.0",
     "faunadb": "^4.1.1",
