@@ -7,7 +7,7 @@
     "analytics": "^0.7.3",
     "chalk": "^4.1.0",
     "faunadb": "^4.1.1",
-    "markdown-magic": "^2.0.0",
+    "markdown-magic": "^3.7.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "^4.0.3"
